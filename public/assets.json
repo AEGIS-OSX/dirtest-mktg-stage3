@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage3/cleo/1782422596641-logo.png",
+    "alt": "Flat vector logo: a geometric 'D' merged with a coffee-drop mark in Coffee Brown #6B4F35, with the wordmark 'DirTest' set in Inter SemiBold and a small Latte Accent #C9A77B detail. Background is Cream",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage3/cleo/1782422416345-hero.png",
+    "alt": "Hero image: a warm, tactile home desk scene with the DirTest bottle center-left backlit to show brew clarity, a half-open laptop blurred at right, brass lamp casting warm pool, and a hand entering fra",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage3/cleo/1782422421079-feature_1.png",
+    "alt": "Warm, tactile hero for the first feature: a sunlit home desk with the DirTest cold-brew bottle center-left, a blurred laptop right, a sweating ceramic carafe, and a brass lamp casting a warm pool. The",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage3/cleo/1782422422117-feature_2.png",
+    "alt": "Feature image showing a warm, tactile mid-morning desk scene: DirTest bottle center-left in sharp shallow focus, laptop blurred center-right, brass lamp warm-lit, ceramic carafe and plant accents. Fit",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage3/cleo/1782422420043-feature_3.png",
+    "alt": "Horizontal detail strip for the feature_3 slot showing three tactile cards: a backlit matte bottle, roast selector swatches, and a cadence panel. The warm cream background, Coffee Brown label, and Fre",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage3/cleo/1782422772848-social_proof.png",
+    "alt": "Warm, tactile editorial photo: a matte cold-brew bottle sits center-left on a wooden desk, laptop blurred center-right, brass lamp and ceramic carafe visible, negative cream space on the right for tes",
     "width": 1200,
     "height": 800
   }
